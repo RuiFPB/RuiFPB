@@ -5,5 +5,5 @@ Info about me and my work
 Student at [ISEP](https://isep.ipp.pt) enrolled in Informatics Engineering
 
 ## My Projects
-[uLinux](ulinux.md) - A small somewhat functional Linux OS
-[SuperSmall](supersmall.md) - A stupid compact program
+ - [uLinux](ulinux.md) - A small somewhat functional Linux OS
+ - [SuperSmall](supersmall.md) - A stupid compact program
