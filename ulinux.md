@@ -1,12 +1,18 @@
-# uLinux - A small somewhat functional Linux OS (UNFINISHED)
-I had this on a text file somewhere on my computer for a while and decided now to make it public. *Thank you Prof. David Freitas for the sugestion*
+# uLinux - A small somewhat functional Linux OS
+I had this on a text file somewhere on my computer for a while and decided now to make it public. 
+
+*Thank you Prof. David Freitas for the sugestion*
+
+----
 
 I will try to make this as understandable as possible, explaining how stuff works.
 
 **DISCLAIMER:** I am not an expert on Linux or even Operating Systems.
 
 ## Index
-Try to not get lost 🙂
+<details>
+ <summary>Try to not get lost 🙂</summary>
+
  - [Index](#index)
  - [Intro](#intro)
  - [Linux Kernel](#linux-kernel)
@@ -17,13 +23,13 @@ Try to not get lost 🙂
    - [Building BusyBox](#building-busybox)
  - [initrd.img](#initrd)
    - [Creating the Folders](#creating-folders)
-   - [Including Programs](#including-programs)
    - [Creating the Image](#creating-the-image)
  - [Making the ISO](#making-the-iso)
    - [Bootloader](#bootloader)
    - [Image's Structure](#images-structure)
    - [The ISO File](#the-iso-file)
  - [Debugging](#debugging)
+</details>
 
 ## Intro
 After learning that a Linux distro is just the Kernel packed with diferent utilites, I started wondering if I could make my own.
