@@ -1,7 +1,7 @@
 # uLinux - A small somewhat functional Linux OS
 I had this on a text file somewhere on my computer for a while and decided now to make it public. 
 
-*Thank you Prof. David Freitas for the sugestion*
+*Thank you, Prof. David Freitas, for the sugestion*
 
 ----
 
