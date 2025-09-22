@@ -3,6 +3,7 @@ Info about me and my work
 
 ## Me
 Student at [ISEP](https://isep.ipp.pt) enrolled in the Masters in Informatics Engineering - Cybersecurity and Systems Administration.
+
 Completed the Degree in Informatics Engineering at [ISEP](https://isep.ipp.pt).
 
 ## My Projects
